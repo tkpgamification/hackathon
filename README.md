@@ -62,6 +62,11 @@ car6-trb1, 155-DTM, kc-p4, car1-stock1, p406
 
 The default type is __car6-trb1__.
 
+Opponents:
+
+To define how many opponents to have with you on the track, set value from 0-9 in the __OPPONENTS__ file.
+
+
 ### Building the client
 
 The easiest way to build the client is to use Visual Studio 2019 Community edition but you can use any preferred IDE to build the software.\
