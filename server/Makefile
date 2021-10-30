@@ -174,7 +174,7 @@ clean-compose:
 	@echo ''
 	docker-compose rm -fv
 
-simulation: clean-compose
+simulation:
 	@echo ''
 	@echo '$@'
 	@echo ''
